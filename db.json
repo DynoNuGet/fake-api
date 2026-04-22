@@ -36,5 +36,27 @@
             "descricao": "É o profissional que analisa e projeta sistemas. Constrói, documenta, realiza testes e mantém sistemas de informação. Utiliza ambientes de desenvolvimento e linguagens de programação específica. Modela, implementa e mantém bancos de dados. O candidato que ingressar no curso técnico de Desenvolvimento de Sistemas, na modalidade AMS, poderá prosseguir os estudos em uma Fatec no curso superior de tecnologia em Análise e Desenvolvimento de Sistemas.",
            "carga-horaria": 1200
         }
+    ],
+    "professores": [
+        {
+            "id": 1,
+            "nome": "Alícia"
+        },
+        {
+            "id": 2,
+            "nome": "Jean"
+        },
+        {
+            "id": 3,
+            "nome": "Daniel"
+        },
+        {
+            "id": 4,
+            "nome": "Heliene"
+        },
+        {
+            "id": 5,
+            "nome": "Francisco"
+        }
     ]
 }
