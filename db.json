@@ -6,6 +6,7 @@
             "disciplinas": [
                 "PAM II", "WEB III", "BD"
             ],
+            "descricao": "É o profissional que analisa e projeta sistemas. Constrói, documenta, realiza testes e mantém sistemas de informação. Utiliza ambientes de desenvolvimento e linguagens de programação específica. Modela, implementa e mantém bancos de dados. O candidato que ingressar no curso técnico de Desenvolvimento de Sistemas, na modalidade AMS, poderá prosseguir os estudos em uma Fatec no curso superior de tecnologia em Análise e Desenvolvimento de Sistemas.",
             "carga-horaria": 3600
         },
         {
@@ -14,7 +15,26 @@
             "disciplinas": [
                 "PAM II", "WEB III", "BD"
             ],
-            "carga-horaria": 3600
+            "descricao": "O técnico em Informática desenvolve e opera sistemas, aplicações e interfaces gráficas. Monta estruturas de banco de dados e codifica programas. Projeta, implanta e realiza manutenção de sistemas e aplicações. Seleciona recursos de trabalho, linguagens de programação, ferramentas e metodologias para o desenvolvimento de sistemas.",
+            "carga-horaria": 1200
+        },
+        {
+            "id": 3,
+            "nome":"Mtec-N Informática para Internet",
+            "disciplinas": [
+                "PAM", "BD", "P TIC"
+            ],
+            "descricao": "O processo de criação de sites e o de desenvolvimento de programas que podem ser utilizados em páginas na internet. Para programar, o aluno vai estudar raciocínio lógico e linguagens de programação, que utiliza comandos para desenvolver funcionalidades e dar forma a um site. Além disso, o estudante aprenderá um pouco de design com o objetivo de tornar a página mais agradável e fácil de ser utilizada. O aluno aprenderá ainda como criar e alterar bancos de dados que vão alimentar os sites. Noções de marketing digital para a web e de empreendedorismo também serão ensinadas ao longo do curso.",
+            "carga-horaria": 1200
+        },
+        {
+            "id": 4,
+            "nome":"Curso Técnico - Desenvolvimento de Sistemas",
+            "disciplinas": [
+                "S WEB I", "PC", "DD Móveis"
+            ],
+            "descricao": "É o profissional que analisa e projeta sistemas. Constrói, documenta, realiza testes e mantém sistemas de informação. Utiliza ambientes de desenvolvimento e linguagens de programação específica. Modela, implementa e mantém bancos de dados. O candidato que ingressar no curso técnico de Desenvolvimento de Sistemas, na modalidade AMS, poderá prosseguir os estudos em uma Fatec no curso superior de tecnologia em Análise e Desenvolvimento de Sistemas.",
+           "carga-horaria": 1200
         }
     ]
 }
